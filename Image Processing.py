@@ -1,5 +1,4 @@
-# Xu Song
-# author:Xu Song
+# author:Sisquoc
 
 #函数库调用
 from PIL import Image
